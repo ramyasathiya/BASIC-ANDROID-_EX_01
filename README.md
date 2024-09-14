@@ -104,5 +104,6 @@ OUTPUT:
 ![image](https://github.com/user-attachments/assets/fd42336e-f70f-4480-9c41-543394ec0131)
 
 
-RESULT: Thus a program to implement the various life cycles of an activity is written and successfully executed using Android Studio.
+RESULT: 
+Thus a program to implement the various life cycles of an activity is written and successfully executed using Android Studio.
 
